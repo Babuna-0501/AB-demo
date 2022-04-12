@@ -1,0 +1,26 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.samsung.com	TRUE	/	FALSE	1999999999	us_p6_PR	false
+www.samsung.com	TRUE	/	FALSE	1999999999	akacd_com_us	1649813174~rv=4~id=80b0de432e39a1c52aa86d1394307ce3
+samsung.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+.samsung.com	TRUE	/	FALSE	1999999999	country_codes	mn
+www.samsung.com	TRUE	/	FALSE	1999999999	isexp	true
+www.samsung.com	TRUE	/	FALSE	1999999999	akacd_us_web_cart	1650331584~rv=42~id=57ec222fc173adfc717e3f4ac264e3e7
+.samsung.com	TRUE	/	FALSE	1999999999	__COM_SPEED	H
+www.samsung.com	TRUE	/	FALSE	1999999999	WMONID	j4LfMWImG__
+.bing.com	TRUE	/	FALSE	1999999999	MUID	33BC8A3AE76463633CC09BBEE6546275
+bat.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.samsung.com	TRUE	/	FALSE	1999999999	akacd_us_business	1649813313~rv=35~id=57736e819f4793b498c4fde2736ca25a
+samsung.com	TRUE	/	FALSE	1999999999	tmk	2916a4a7286f018b6fd2679981976976a54c85076b90569c0067d4966d972fc2
+www.samsung.com	TRUE	/	FALSE	1999999999	enablests	true
+www.samsung.com	TRUE	/	FALSE	1999999999	akacd_wwwussupportorder	1650331758~rv=87~id=4ddeb19a6c0726a2024f799af339a68d
+www.samsung.com	TRUE	/	FALSE	1999999999	dsr_n	n
+www.samsung.com	TRUE	/	FALSE	1999999999	akacd_dsr_n	1650333541~rv=95~id=db5ffdfb70f67b589c2c0dc4dbca7ce3
+www.samsung.com	TRUE	/	FALSE	1999999999	JSESSIONID	TTEbhJ-JwXrMIKoopelpvNin1-fXZp4h9vNz0u8WY94xN9DgloQT!225100810
+www.samsung.com	TRUE	/	FALSE	1999999999	akacd_compare_ranges_PR	1649815875~rv=53~id=027dab828ce2cab8c040455052170381
+www.samsung.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.samsung.com	TRUE	/	FALSE	1999999999	NSC_dpn.tbntvoh.psjhjovt	ffffffff6a092b2545525d5f4f58455e445a4a42378b
+.samsung.com	TRUE	/	FALSE	1999999999	device_type	pc
+

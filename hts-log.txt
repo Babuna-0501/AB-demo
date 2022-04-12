@@ -1,0 +1,236 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Apr 2022 09:26:12 at https://www.samsung.com/us/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.samsung.com/us/ -O1 "C:\My Web Sites\AB" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:26:14	Warning: 	Note: due to https://www.samsung.com remote robots.txt rules, links beginning with these path will be forbidden: /*/business/search/, /*/parking, /*/parking/, /*/search/, /*/system/*, /*/info/contactus/email-the-ceo/, /*/c/p/, /de/aboutsamsung/inner-circle-2017/, /ru/*search, /ru/cdm/*, /uk/*productcompare, /uk/wdc/*, /us/dealer/*, /us/epp/*, /us/support/service/agent/*, /us/business/search/, /us/api/, /us/trade-in/program-violation/, /sg/ab/*, /*/?bvstate*, /*/_jcr_content/*, /*/galaxy-s10-buy-test/*, /*/connected-living/content-library/*, /se/info/privacy/officecctv/, /au/referral/referred-friend/, /*/common/review/, /*/edm/, /au/email/, /au/emailtest/, /*/testhome/, /*/home_gnb/, /*/home_hq/, /*/home_3rd/, /*/home_notag/, /*/home_75/, /*/home_50/, /*/home_25/, /*/speedtest/*, /us/smartphones/all-smartphones/*, /us/smartphones/galaxy-s/*, /us/smartphones/galaxy-note/*, /us/smartphones/galaxy-z/*, /us/smartphones/galaxy-a/*, /us/tablets/all-tablets/*, /us/tablets/galaxy-book/*, /us/tablets/galaxy-tab-s/*, /us/tablets/galaxy-tab-a/*, /us/tablets/others/*, /us/watches/all-watches/*, /us/watches/galaxy-watch/*, /us/watches/galaxy-fit/*, /us/watches/galaxy-watch-active/*, /us/audio-sound/akg-headphones/*, /us/audio-sound/all-audio-sound/*, /us/audio-sound/galaxy-buds/*, /us/business/new/* (see in the options to disable this)
+09:28:47	Error: 	"Not Found" (404) at link https://www.samsung.com/us/common/404.html (from https://www.samsung.com/us/)
+09:30:13	Warning: 	Moved Temporarily for https://www.samsung.com/us/web/cart/
+09:30:13	Warning: 	File has moved from https://www.samsung.com/us/web/cart/ to https://www.samsung.com/us/web/express/cart/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/robots.txt
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/robots.txt and https://www.samsung.com/robots.txt
+09:30:15	Warning: 	Warning moved treated for www.samsung.com/robots.txt (real one is https://www.samsung.com/robots.txt)
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/5g/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/5g/ and https://www.samsung.com/us/mobile/5g/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/5g/ to https://www.samsung.com/us/mobile/5g/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/smartphones/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/smartphones/ and https://www.samsung.com/us/smartphones/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/smartphones/ to https://www.samsung.com/us/smartphones/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/galaxy/why-galaxy/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/galaxy/why-galaxy/ and https://www.samsung.com/us/galaxy/why-galaxy/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/galaxy/why-galaxy/ to https://www.samsung.com/us/galaxy/why-galaxy/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/galaxy-s20-5g/s20-fe-5g/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/galaxy-s20-5g/s20-fe-5g/ and https://www.samsung.com/us/mobile/galaxy-s20-5g/s20-fe-5g/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/galaxy-s20-5g/s20-fe-5g/ to https://www.samsung.com/us/mobile/galaxy-s20-5g/s20-fe-5g/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/smartphones/galaxy-note20-5g/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/smartphones/galaxy-note20-5g/ and https://www.samsung.com/us/smartphones/galaxy-note20-5g/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/smartphones/galaxy-note20-5g/ to https://www.samsung.com/us/smartphones/galaxy-note20-5g/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/smartphones/galaxy-z-fold2-5g/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/smartphones/galaxy-z-fold2-5g/ and https://www.samsung.com/us/smartphones/galaxy-z-fold2-5g/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/smartphones/galaxy-z-fold2-5g/ to https://www.samsung.com/us/smartphones/galaxy-z-fold2-5g/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/galaxy-z-flip/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/galaxy-z-flip/ and https://www.samsung.com/us/mobile/galaxy-z-flip/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/galaxy-z-flip/ to https://www.samsung.com/us/mobile/galaxy-z-flip/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/galaxy-a71-5g/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/galaxy-a71-5g/ and https://www.samsung.com/us/mobile/galaxy-a71-5g/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/galaxy-a71-5g/ to https://www.samsung.com/us/mobile/galaxy-a71-5g/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile-audio/galaxy-buds-live/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile-audio/galaxy-buds-live/ and https://www.samsung.com/us/mobile-audio/galaxy-buds-live/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile-audio/galaxy-buds-live/ to https://www.samsung.com/us/mobile-audio/galaxy-buds-live/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/watches/galaxy-watch3/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/watches/galaxy-watch3/ and https://www.samsung.com/us/watches/galaxy-watch3/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/watches/galaxy-watch3/ to https://www.samsung.com/us/watches/galaxy-watch3/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/phones/all-phones/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/phones/all-phones/ and https://www.samsung.com/us/mobile/phones/all-phones/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/phones/all-phones/ to https://www.samsung.com/us/mobile/phones/all-phones/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/phones/galaxy-note/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/phones/galaxy-note/ and https://www.samsung.com/us/mobile/phones/galaxy-note/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/phones/galaxy-note/ to https://www.samsung.com/us/mobile/phones/galaxy-note/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/phones/galaxy-s/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/phones/galaxy-s/ and https://www.samsung.com/us/mobile/phones/galaxy-s/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/phones/galaxy-s/ to https://www.samsung.com/us/mobile/phones/galaxy-s/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/phones/galaxy-z/?Flagship%20Series%20Name=Galaxy+Z&model_family=Galaxy+Z-Flip+5G,Galaxy+Z-Flip
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/phones/galaxy-z/?Flagship%20Series%20Name=Galaxy+Z&model_family=Galaxy+Z-Flip+5G,Galaxy+Z-Flip and https://www.samsung.com/us/mobile/phones/galaxy-z/?Flagship%20Series%20Name=Galaxy+Z&model_family=Galaxy+Z-Flip+5G,Galaxy+Z-Flip
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/phones/galaxy-z/?Flagship%20Series%20Name=Galaxy+Z&model_family=Galaxy+Z-Flip+5G,Galaxy+Z-Flip to https://www.samsung.com/us/mobile/phones/galaxy-z/?Flagship%20Series%20Name=Galaxy+Z&model_family=Galaxy+Z-Flip+5G,Galaxy+Z-Flip
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/phones/galaxy-z/?Flagship%20Series%20Name=Galaxy+Z&model_family=Galaxy+Z+Fold2+5G,Galaxy+Fold
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/phones/galaxy-z/?Flagship%20Series%20Name=Galaxy+Z&model_family=Galaxy+Z+Fold2+5G,Galaxy+Fold and https://www.samsung.com/us/mobile/phones/galaxy-z/?Flagship%20Series%20Name=Galaxy+Z&model_family=Galaxy+Z+Fold2+5G,Galaxy+Fold
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/phones/galaxy-z/?Flagship%20Series%20Name=Galaxy+Z&model_family=Galaxy+Z+Fold2+5G,Galaxy+Fold to https://www.samsung.com/us/mobile/phones/galaxy-z/?Flagship%20Series%20Name=Galaxy+Z&model_family=Galaxy+Z+Fold2+5G,Galaxy+Fold
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/phones/galaxy-a/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/phones/galaxy-a/ and https://www.samsung.com/us/mobile/phones/galaxy-a/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/phones/galaxy-a/ to https://www.samsung.com/us/mobile/phones/galaxy-a/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/phones/galaxy-s/?model_family=Galaxy+S20%2B+5G,Galaxy+S20+5G,Galaxy+Note10%2B+5G,Galaxy+S10+5G,Galaxy+S20+FE+5G+UW,Galaxy+S20+FE+5G,Galaxy+Z+Fold2+5G,Galaxy+Note20+Ultra+5G,Galaxy+Z-Flip+5G,Galaxy+Note20+5G,Galaxy+A71+5G,Galaxy+A51+5G+UW,Galaxy+A71+5G+UW,Galaxy+A51+5G,Galaxy+S20+Ultra+5G
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/phones/galaxy-s/?model_family=Galaxy+S20%2B+5G,Galaxy+S20+5G,Galaxy+Note10%2B+5G,Galaxy+S10+5G,Galaxy+S20+FE+5G+UW,Galaxy+S20+FE+5G,Galaxy+Z+Fold2+5G,Galaxy+Note20+Ultra+5G,Galaxy+Z-Flip+5G,Galaxy+Note20+5G,Galaxy+A71+5G,Galaxy+A51+5G+UW,Galaxy+A71+5G+UW,Galaxy+A51+5G,Galaxy+S20+Ultra+5G and https://www.samsung.com/us/mobile/phones/galaxy-s/?model_family=Galaxy+S20%2B+5G,Galaxy+S20+5G,Galaxy+Note10%2B+5G,Galaxy+S10+5G,Galaxy+S20+FE+5G+UW,Galaxy+S20+FE+5G,Galaxy+Z+Fold2+5G,Galaxy+Note20+Ultra+5G,Galaxy+Z-Flip+5G,Galaxy+Note20+5G,Galaxy+A71+5G,Galaxy+A51+5G+UW,Galaxy+A71+5G+UW,Galaxy+A51+5G,Galaxy+S20+Ultra+5G
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/phones/galaxy-s/?model_family=Galaxy+S20%2B+5G,Galaxy+S20+5G,Galaxy+Note10%2B+5G,Galaxy+S10+5G,Galaxy+S20+FE+5G+UW,Galaxy+S20+FE+5G,Galaxy+Z+Fold2+5G,Galaxy+Note20+Ultra+5G,Galaxy+Z-Flip+5G,Galaxy+Note20+5G,Galaxy+A71+5G,Galaxy+A51+5G+UW,Galaxy+A71+5G+UW,Galaxy+A51+5G,Galaxy+S20+Ultra+5G to https://www.samsung.com/us/mobile/phones/galaxy-s/?model_family=Galaxy+S20%2B+5G,Galaxy+S20+5G,Galaxy+Note10%2B+5G,Galaxy+S10+5G,Galaxy+S20+FE+5G+UW,Galaxy+S20+FE+5G,Galaxy+Z+Fold2+5G,Galaxy+Note20+Ultra+5G,Galaxy+Z-Flip+5G,Galaxy+Note20+5G,Galaxy+A71+5G,Galaxy+A51+5G+UW,Galaxy+A71+5G+UW,Galaxy+A51+5G,Galaxy+S20+Ultra+5G
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/mobile/phones/unlocked-by-samsung/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/phones/unlocked-by-samsung/ and https://www.samsung.com/us/mobile/phones/unlocked-by-samsung/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/mobile/phones/unlocked-by-samsung/ to https://www.samsung.com/us/mobile/phones/unlocked-by-samsung/
+09:30:15	Warning: 	Moved Permanently for https://www.samsung.com/us/explore/certified-pre-owned-phones/
+09:30:15	Warning: 	File has moved from https://www.samsung.com/us/explore/certified-pre-owned-phones/ to https://www.samsung.com/us/explore/certified-re-newed-phones/
+09:30:15	Warning: 	Moved Permanently for www.samsung.com/us/shop/access/mobile/
+09:30:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/shop/access/mobile/ and https://www.samsung.com/us/shop/access/mobile/
+09:30:15	Warning: 	File has moved from www.samsung.com/us/shop/access/mobile/ to https://www.samsung.com/us/shop/access/mobile/
+09:30:40	Warning: 	Moved Permanently for https://www.samsung.com/us/mobile/wearables/smartwatches/galaxy-watch3-45mm-titanium-bluetooth-sm-r840ntkaxar/
+09:30:40	Warning: 	File has moved from https://www.samsung.com/us/mobile/wearables/smartwatches/galaxy-watch3-45mm-titanium-bluetooth-sm-r840ntkaxar/ to /us/watches/galaxy-watch4/buy/?modelCode=SM-R840NTKAXAR
+09:30:52	Warning: 	Moved Permanently for www.samsung.com/us/mobile/wearables/wearables-accessories/
+09:30:52	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/wearables/wearables-accessories/ and https://www.samsung.com/us/mobile/wearables/wearables-accessories/
+09:30:52	Warning: 	File has moved from www.samsung.com/us/mobile/wearables/wearables-accessories/ to https://www.samsung.com/us/mobile/wearables/wearables-accessories/
+09:31:18	Warning: 	Moved Permanently for www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-copper-brown-sm-r180nznaxar/
+09:31:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-copper-brown-sm-r180nznaxar/ and https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-copper-brown-sm-r180nznaxar/
+09:31:18	Warning: 	File has moved from www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-copper-brown-sm-r180nznaxar/ to https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-live-copper-brown-sm-r180nznaxar/
+09:31:18	Warning: 	Moved Permanently for www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-bts-edition-sm-r175nzpbxar/
+09:31:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-bts-edition-sm-r175nzpbxar/ and https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-bts-edition-sm-r175nzpbxar/
+09:31:18	Warning: 	File has moved from www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-bts-edition-sm-r175nzpbxar/ to https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-bts-edition-sm-r175nzpbxar/
+09:31:18	Warning: 	Moved Permanently for www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-white-sm-r175nzwaxar/
+09:31:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-white-sm-r175nzwaxar/ and https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-white-sm-r175nzwaxar/
+09:31:18	Warning: 	File has moved from www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-white-sm-r175nzwaxar/ to https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds-plus-white-sm-r175nzwaxar/
+09:31:18	Warning: 	Moved Permanently for www.samsung.com/us/mobile/audio/headphones/galaxy-buds--black-sm-r170nzkaxar/
+09:31:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/audio/headphones/galaxy-buds--black-sm-r170nzkaxar/ and https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds--black-sm-r170nzkaxar/
+09:31:18	Warning: 	File has moved from www.samsung.com/us/mobile/audio/headphones/galaxy-buds--black-sm-r170nzkaxar/ to https://www.samsung.com/us/mobile/audio/headphones/galaxy-buds--black-sm-r170nzkaxar/
+09:31:18	Warning: 	Moved Permanently for www.samsung.com/us/mobile/audio/all-audio/?item_type=Headphones
+09:31:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/audio/all-audio/?item_type=Headphones and https://www.samsung.com/us/mobile/audio/all-audio/?item_type=Headphones
+09:31:18	Warning: 	File has moved from www.samsung.com/us/mobile/audio/all-audio/?item_type=Headphones to https://www.samsung.com/us/mobile/audio/all-audio/?item_type=Headphones
+09:31:18	Warning: 	Moved Permanently for www.samsung.com/us/mobile-audio/
+09:31:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile-audio/ and https://www.samsung.com/us/mobile-audio/
+09:31:18	Warning: 	File has moved from www.samsung.com/us/mobile-audio/ to https://www.samsung.com/us/mobile-audio/
+09:31:18	Warning: 	Moved Permanently for www.samsung.com/us/mobile/mobile-accessories/all-mobile-accessories/
+09:31:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/mobile-accessories/all-mobile-accessories/ and https://www.samsung.com/us/mobile/mobile-accessories/all-mobile-accessories/
+09:31:18	Warning: 	File has moved from www.samsung.com/us/mobile/mobile-accessories/all-mobile-accessories/ to https://www.samsung.com/us/mobile/mobile-accessories/all-mobile-accessories/
+09:31:19	Warning: 	Moved Permanently for www.samsung.com/us/mobile/mobile-accessories/phones/
+09:31:19	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/mobile-accessories/phones/ and https://www.samsung.com/us/mobile/mobile-accessories/phones/
+09:31:19	Warning: 	File has moved from www.samsung.com/us/mobile/mobile-accessories/phones/ to https://www.samsung.com/us/mobile/mobile-accessories/phones/
+09:31:19	Warning: 	Moved Permanently for www.samsung.com/us/mobile/mobile-accessories/tablets/
+09:31:19	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/mobile-accessories/tablets/ and https://www.samsung.com/us/mobile/mobile-accessories/tablets/
+09:31:19	Warning: 	File has moved from www.samsung.com/us/mobile/mobile-accessories/tablets/ to https://www.samsung.com/us/mobile/mobile-accessories/tablets/
+09:31:30	Warning: 	Moved Permanently for www.samsung.com/us/samsung-pay/
+09:31:30	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/samsung-pay/ and https://www.samsung.com/us/samsung-pay/
+09:31:30	Warning: 	File has moved from www.samsung.com/us/samsung-pay/ to https://www.samsung.com/us/samsung-pay/
+09:31:31	Warning: 	Moved Permanently for www.samsung.com/us/explore/bixby/
+09:31:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/explore/bixby/ and https://www.samsung.com/us/explore/bixby/
+09:31:31	Warning: 	File has moved from www.samsung.com/us/explore/bixby/ to https://www.samsung.com/us/explore/bixby/
+09:31:31	Warning: 	Moved Permanently for www.samsung.com/us/samsung-health/
+09:31:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/samsung-health/ and https://www.samsung.com/us/samsung-health/
+09:31:31	Warning: 	File has moved from www.samsung.com/us/samsung-health/ to https://www.samsung.com/us/samsung-health/
+09:31:31	Warning: 	Moved Permanently for www.samsung.com/us/explore/samsung-galaxy-apps/
+09:31:31	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/explore/samsung-galaxy-apps/ and https://www.samsung.com/us/explore/samsung-galaxy-apps/
+09:31:31	Warning: 	File has moved from www.samsung.com/us/explore/samsung-galaxy-apps/ to https://www.samsung.com/us/explore/samsung-galaxy-apps/
+09:32:03	Warning: 	Moved Permanently for www.samsung.com/us/explore/dex/
+09:32:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/explore/dex/ and https://www.samsung.com/us/explore/dex/
+09:32:03	Warning: 	File has moved from www.samsung.com/us/explore/dex/ to https://www.samsung.com/us/explore/dex/
+09:32:03	Warning: 	Moved Permanently for www.samsung.com/us/apps/samsung-members/
+09:32:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/apps/samsung-members/ and https://www.samsung.com/us/apps/samsung-members/
+09:32:03	Warning: 	File has moved from www.samsung.com/us/apps/samsung-members/ to https://www.samsung.com/us/apps/samsung-members/
+09:32:03	Warning: 	Moved Permanently for www.samsung.com/us/explore/shop-samsung-app/
+09:32:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/explore/shop-samsung-app/ and https://www.samsung.com/us/explore/shop-samsung-app/
+09:32:03	Warning: 	File has moved from www.samsung.com/us/explore/shop-samsung-app/ to https://www.samsung.com/us/explore/shop-samsung-app/
+09:32:03	Warning: 	Moved Permanently for www.samsung.com/us/smart-switch/
+09:32:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/smart-switch/ and https://www.samsung.com/us/smart-switch/
+09:32:03	Warning: 	File has moved from www.samsung.com/us/smart-switch/ to https://www.samsung.com/us/smart-switch/
+09:32:03	Warning: 	Moved Permanently for www.samsung.com/us/samsung-pay/samsung-money-by-sofi/?cid=com-mktg-cha-spay-052720-112342
+09:32:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/samsung-pay/samsung-money-by-sofi/?cid=com-mktg-cha-spay-052720-112342 and https://www.samsung.com/us/samsung-pay/samsung-money-by-sofi/?cid=com-mktg-cha-spay-052720-112342
+09:32:03	Warning: 	File has moved from www.samsung.com/us/samsung-pay/samsung-money-by-sofi/?cid=com-mktg-cha-spay-052720-112342 to https://www.samsung.com/us/samsung-pay/samsung-money-by-sofi/?cid=com-mktg-cha-spay-052720-112342
+09:32:03	Warning: 	Moved Permanently for www.samsung.com/us/apps/
+09:32:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/apps/ and https://www.samsung.com/us/apps/
+09:32:03	Warning: 	File has moved from www.samsung.com/us/apps/ to https://www.samsung.com/us/apps/
+09:32:03	Warning: 	Moved Permanently for www.samsung.com/us/shop/all-deals/cell-phone-deals/
+09:32:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/shop/all-deals/cell-phone-deals/ and https://www.samsung.com/us/shop/all-deals/cell-phone-deals/
+09:32:03	Warning: 	File has moved from www.samsung.com/us/shop/all-deals/cell-phone-deals/ to https://www.samsung.com/us/shop/all-deals/cell-phone-deals/
+09:32:03	Warning: 	Moved Permanently for www.samsung.com/us/smartphones/galaxy-z-premier/
+09:32:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/smartphones/galaxy-z-premier/ and https://www.samsung.com/us/smartphones/galaxy-z-premier/
+09:32:03	Warning: 	File has moved from www.samsung.com/us/smartphones/galaxy-z-premier/ to https://www.samsung.com/us/smartphones/galaxy-z-premier/
+09:32:04	Warning: 	Moved Permanently for www.samsung.com/us/shop/all-deals/watches-audio-accessories-deals/
+09:32:04	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/shop/all-deals/watches-audio-accessories-deals/ and https://www.samsung.com/us/shop/all-deals/watches-audio-accessories-deals/
+09:32:04	Warning: 	File has moved from www.samsung.com/us/shop/all-deals/watches-audio-accessories-deals/ to https://www.samsung.com/us/shop/all-deals/watches-audio-accessories-deals/
+09:39:26	Error: 	"Not Found" (404) at link https://www.samsung.com/us/smartphones/galaxy-s20-5g/buy/ (from https://www.samsung.com/us/)
+09:39:28	Warning: 	Moved Permanently for https://www.samsung.com/us/tvs/virtual-store/
+09:39:28	Warning: 	File has moved from https://www.samsung.com/us/tvs/virtual-store/ to https://www.samsung.com/us/tvs/tv-showroom/
+09:39:33	Warning: 	Moved Permanently for https://www.samsung.com/us/televisions-home-theater/tvs/qled-tv/
+09:39:33	Warning: 	File has moved from https://www.samsung.com/us/televisions-home-theater/tvs/qled-tv/ to https://www.samsung.com/us/tvs/qled-tv/highlights
+09:41:43	Warning: 	Moved Permanently for https://www.samsung.com/us/televisions-home-theater/tvs/qled-tv/gaming-tv/
+09:41:43	Warning: 	File has moved from https://www.samsung.com/us/televisions-home-theater/tvs/qled-tv/gaming-tv/ to https://www.samsung.com/us/tvs/gaming-tv/
+09:41:48	Warning: 	Moved Permanently for https://www.samsung.com/us/televisions-home-theater/tvs/qled-tv/sports-tv/
+09:41:48	Warning: 	File has moved from https://www.samsung.com/us/televisions-home-theater/tvs/qled-tv/sports-tv/ to https://www.samsung.com/us/tvs/sports-tv/
+09:41:50	Warning: 	Moved Permanently for https://www.samsung.com/us/televisions-home-theater/home-theater/soundbars/
+09:41:50	Warning: 	File has moved from https://www.samsung.com/us/televisions-home-theater/home-theater/soundbars/ to https://www.samsung.com/us/home-theater/soundbars/
+09:42:41	Warning: 	Moved Permanently for https://www.samsung.com/us/televisions-home-theater/tvs/smart-tv/highlights/
+09:42:41	Warning: 	File has moved from https://www.samsung.com/us/televisions-home-theater/tvs/smart-tv/highlights/ to http://www.samsung.com/us/tvs/smart-tv/highlights/
+10:05:54	Warning: 	Moved Permanently for https://www.samsung.com/us/connected-appliances/
+10:05:54	Warning: 	File has moved from https://www.samsung.com/us/connected-appliances/ to https://www.samsung.com/us/home-appliances/connected-appliances/
+10:11:55	Warning: 	Moved Permanently for https://www.samsung.com/us/cooktops-and-hoods/
+10:11:55	Warning: 	File has moved from https://www.samsung.com/us/cooktops-and-hoods/ to https://www.samsung.com/us/cooktops/
+10:12:56	Error: 	Exit requested by shell or user
+10:12:56	Warning: 	File not added due to mirror cancel: images.samsung.com/is/image/samsung/assets/us/10-11-21/15b-Samsung-LaundryPCDs-Mox.png?$LazyLoad_Home_PNG$
+10:12:56	Warning: 	File not added due to mirror cancel: images.samsung.com/is/image/samsung/assets/us/10-11-21/15b-Samsung-LaundryPCDs-Mox.png?$LazyLoad_Home_PNG$
+10:12:56	Warning: 	File not added due to mirror cancel: images.samsung.com/is/image/samsung/assets/us/10-11-21/15b-Samsung-LaundryPCDs-Mox.png?$LazyLoad_Home_PNG$
+10:12:56	Warning: 	File not added due to mirror cancel: images.samsung.com/is/image/samsung/assets/us/10-11-21/15b-Samsung-LaundryPCDs-Mox.png?$LazyLoad_Home_PNG$
+10:12:57	Warning: 	Moved Permanently for https://www.samsung.com/us/air-purifiers/
+10:12:57	Warning: 	File has moved from https://www.samsung.com/us/air-purifiers/ to https://www.samsung.com/us/home-appliances/air-purifiers/all-air-purifiers/
+10:12:57	Warning: 	Moved Permanently for https://www.samsung.com/us/homeappliances/rebate-center/
+10:12:57	Warning: 	File has moved from https://www.samsung.com/us/homeappliances/rebate-center/ to /us/home-appliances/rebate-center/
+10:12:58	Warning: 	Moved Permanently for https://www.samsung.com/us/computing/windows-laptops/galaxy-book-flex/
+10:12:58	Warning: 	File has moved from https://www.samsung.com/us/computing/windows-laptops/galaxy-book-flex/ to https://www.samsung.com/us/computing/galaxy-book-flex2-alpha/
+10:12:58	Warning: 	Moved Permanently for https://www.samsung.com/us/computing/windows-laptops/galaxy-book-ion/
+10:12:58	Warning: 	File has moved from https://www.samsung.com/us/computing/windows-laptops/galaxy-book-ion/ to https://www.samsung.com/us/computing/galaxy-book-flex2-alpha/
+10:12:58	Warning: 	Moved Permanently for https://www.samsung.com/us/computing/windows-laptops/galaxy-book-s/
+10:12:58	Warning: 	File has moved from https://www.samsung.com/us/computing/windows-laptops/galaxy-book-s/ to https://www.samsung.com/us/computing/galaxy-book-flex2-alpha/
+10:12:59	Warning: 	Moved Permanently for https://www.samsung.com/us/computing/memory-storage/solid-state-drives/gaming-ssd/
+10:12:59	Warning: 	File has moved from https://www.samsung.com/us/computing/memory-storage/solid-state-drives/gaming-ssd/ to https://www.samsung.com/us/memory-storage/solid-state-drives/gaming-ssd/
+10:13:00	Warning: 	Moved Permanently for https://www.samsung.com/us/notebooks/
+10:13:00	Warning: 	File has moved from https://www.samsung.com/us/notebooks/ to https://www.samsung.com/us/galaxybooks/
+10:13:02	Warning: 	Moved Permanently for www.samsung.com/us/shop/appliance-package-offer/
+10:13:02	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/shop/appliance-package-offer/ and https://www.samsung.com/us/shop/appliance-package-offer/
+10:13:02	Warning: 	File has moved from www.samsung.com/us/shop/appliance-package-offer/ to https://www.samsung.com/us/shop/appliance-package-offer/
+10:13:02	Warning: 	Moved Permanently for https://www.samsung.com/us/shop/discount-program/
+10:13:02	Warning: 	File has moved from https://www.samsung.com/us/shop/discount-program/ to https://www.samsung.com/us/shop/offer-program/
+10:13:02	Warning: 	Moved Permanently for https://www.samsung.com/us/shop/discount-program/education/
+10:13:02	Warning: 	File has moved from https://www.samsung.com/us/shop/discount-program/education/ to https://www.samsung.com/us/shop/offer-program/education/
+10:13:02	Warning: 	Moved Permanently for https://www.samsung.com/us/shop/discount-program/first-responders/
+10:13:02	Warning: 	File has moved from https://www.samsung.com/us/shop/discount-program/first-responders/ to https://www.samsung.com/us/shop/offer-program/first-responders/
+10:13:02	Warning: 	Moved Permanently for https://www.samsung.com/us/shop/discount-program/government/
+10:13:02	Warning: 	File has moved from https://www.samsung.com/us/shop/discount-program/government/ to https://www.samsung.com/us/shop/offer-program/government/
+10:13:02	Warning: 	Moved Permanently for https://www.samsung.com/us/shop/discount-program/military/
+10:13:02	Warning: 	File has moved from https://www.samsung.com/us/shop/discount-program/military/ to https://www.samsung.com/us/shop/offer-program/military/
+10:13:02	Warning: 	Moved Permanently for https://www.samsung.com/us/shop/discount-program/workplace/
+10:13:02	Warning: 	File has moved from https://www.samsung.com/us/shop/discount-program/workplace/ to https://www.samsung.com/us/shop/offer-program/workplace/
+10:13:03	Warning: 	Moved Permanently for www.samsung.com/us/trade-in/
+10:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/trade-in/ and https://www.samsung.com/us/trade-in/
+10:13:03	Warning: 	File has moved from www.samsung.com/us/trade-in/ to https://www.samsung.com/us/trade-in/
+10:13:03	Warning: 	Moved Permanently for www.samsung.com/us/mobile/phones/upgrade/
+10:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/mobile/phones/upgrade/ and https://www.samsung.com/us/mobile/phones/upgrade/
+10:13:03	Warning: 	File has moved from www.samsung.com/us/mobile/phones/upgrade/ to https://www.samsung.com/us/mobile/phones/upgrade/
+10:13:03	Warning: 	Moved Permanently for www.samsung.com/us/shop/access/
+10:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/shop/access/ and https://www.samsung.com/us/shop/access/
+10:13:03	Warning: 	File has moved from www.samsung.com/us/shop/access/ to https://www.samsung.com/us/shop/access/
+10:13:03	Warning: 	Moved Permanently for www.samsung.com/us/shop/all-deals/first-responder-discounts/
+10:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/shop/all-deals/first-responder-discounts/ and https://www.samsung.com/us/shop/all-deals/first-responder-discounts/
+10:13:03	Warning: 	File has moved from www.samsung.com/us/shop/all-deals/first-responder-discounts/ to https://www.samsung.com/us/shop/all-deals/first-responder-discounts/
+10:13:03	Warning: 	Moved Permanently for www.samsung.com/us/shop/all-deals/student-deals/
+10:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/shop/all-deals/student-deals/ and https://www.samsung.com/us/shop/all-deals/student-deals/
+10:13:03	Warning: 	File has moved from www.samsung.com/us/shop/all-deals/student-deals/ to https://www.samsung.com/us/shop/all-deals/student-deals/
+10:13:03	Warning: 	Moved Permanently for www.samsung.com/us/referral/
+10:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/referral/ and https://www.samsung.com/us/referral/
+10:13:03	Warning: 	File has moved from www.samsung.com/us/referral/ to https://www.samsung.com/us/referral/
+10:13:03	Warning: 	Moved Permanently for www.samsung.com/us/rewards/
+10:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/rewards/ and https://www.samsung.com/us/rewards/
+10:13:03	Warning: 	File has moved from www.samsung.com/us/rewards/ to https://www.samsung.com/us/rewards/
+10:13:03	Warning: 	Moved Permanently for www.samsung.com/us/samsung-pay/samsung-money-by-sofi/?cid=com-mktg-cha-spay-052720-112343
+10:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/samsung-pay/samsung-money-by-sofi/?cid=com-mktg-cha-spay-052720-112343 and https://www.samsung.com/us/samsung-pay/samsung-money-by-sofi/?cid=com-mktg-cha-spay-052720-112343
+10:13:03	Warning: 	File has moved from www.samsung.com/us/samsung-pay/samsung-money-by-sofi/?cid=com-mktg-cha-spay-052720-112343 to https://www.samsung.com/us/samsung-pay/samsung-money-by-sofi/?cid=com-mktg-cha-spay-052720-112343
+10:13:03	Warning: 	Moved Permanently for www.samsung.com/us/promotions/
+10:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.samsung.com/us/promotions/ and https://www.samsung.com/us/promotions/
+10:13:03	Warning: 	File has moved from www.samsung.com/us/promotions/ to https://www.samsung.com/us/promotions/
+10:13:03	Warning: 	Moved Permanently for https://www.samsung.com/us/business/shop/appstack/
+10:13:03	Warning: 	File has moved from https://www.samsung.com/us/business/shop/appstack/ to https://www.samsung.com/us/business/shop/all-deals/
+10:13:03	Warning: 	Moved Permanently for https://www.samsung.com/us/business/shop/offers/phones/
+10:13:03	Warning: 	File has moved from https://www.samsung.com/us/business/shop/offers/phones/ to https://www.samsung.com/us/business/shop/all-deals/cell-phone-deals/
+10:13:03	Warning: 	Moved Permanently for https://www.samsung.com/us/business/shop/offers/tablets/
+10:13:03	Warning: 	File has moved from https://www.samsung.com/us/business/shop/offers/tablets/ to https://www.samsung.com/us/business/shop/all-deals/tablets-laptops-computers-deals/
+10:13:03	Warning: 	Moved Permanently for https://www.samsung.com/us/business/shop/offers/wearables/
+10:13:03	Warning: 	File has moved from https://www.samsung.com/us/business/shop/offers/wearables/ to https://www.samsung.com/us/business/shop/all-deals/watches-audio-accessories-deals/
+10:13:03	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
